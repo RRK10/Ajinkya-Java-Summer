@@ -1,3 +1,3 @@
 # Ajinkya-Java-Summer
 Ajinkya-Java-Summer
-CI/CD Pilepine
+CI/CD Pipeline
